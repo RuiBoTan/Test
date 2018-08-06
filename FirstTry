@@ -1,0 +1,5 @@
+Public class FirstTry{
+  public void main(String[] args){
+    System.out.println("This is a first try in github");
+  }
+}
